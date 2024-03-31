@@ -1,4 +1,4 @@
-HotKeys:
+HotKeys:  
 **Z** — "zero" (clean the field / fill with dead cells)  
 **X** — fill with live cells (because the "X" is near the "Z" on the keyboard)  
 **R** — "random", each cell has a 50% chance will be alive  
