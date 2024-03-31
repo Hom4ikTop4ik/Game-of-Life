@@ -6,3 +6,7 @@ HotKeys:
   
 To _load the "map"_ you must _create a "map.png"_ file in folder with exe-file  
 You can draw anything in it, the drawing will shrink to the size of 32*32 (to the size of the field)  
+
+
+For developers:
+graph.py — file I get at school (wrapper over tkinter)
