@@ -1,0 +1,1 @@
+cd /d %~dp0 && pyinstaller --noconsole --onefile ".\Game of Life.py" && move /Y ".\dist\Game of Life.exe" ".\Game of Life.exe" && rmdir /s /q ".\dist" && rmdir /s /q ".\build" && del ".\Game of Life.spec" /q && cls
