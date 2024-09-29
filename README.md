@@ -10,4 +10,4 @@ You can draw anything in it, the drawing will shrink to the size of 32*32 (to th
 
 
 _For developers:_  
-graph.py — file I get at school (wrapper over tkinter)  
+graph.py — file I got at school (wrapper over tkinter)  
